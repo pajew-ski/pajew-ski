@@ -1,29 +1,35 @@
-# Hi there, I'm Michael 👋
+# Hi there, I'm Michael
 
-**Data Scientist | AI Researcher | Reality Architect**
-Based in Regensburg, Germany 🇩🇪
+**Data Scientist | Consciousness Researcher | Reality Architect**
 
-I explore the convergence of **Artificial Intelligence**, **Fundamental Logic**, and **Mysticism**. My work focuses on building sovereign and free systems that bridge the gap between data science and the underlying code of reality.
+Based in Regensburg, Germany
+
+I explore the convergence of **Artificial Intelligence**, **Formal Logic**, and **Metaphysics**. My work focuses on architecting sovereign, autonomous systems that bridge the gap between data science and the ontological primitives of reality.
 
 ---
 
 ### My Magnum Opus: The Exocortex
-I am architecting a **Sovereign and Free Intelligence for the Home** - a personal "Exocortex".
-My goal is to replicate the power of enterprise-grade data foundries and cognitive engines within a local, open-source ecosystem, ensuring absolute data sovereignty.
-* **Infrastructure:** Running locally on "Exo" (Ryzen AI 9 / Radeon 890M).
-* **Paradigm:** Moving from statistical pattern matching to **Causal AI** and **Symbolic Compression**.
+I am engineering a **Sovereign Cognitive Architecture** for the home environment - a personal "Exocortex".
+My objective is to instantiate enterprise-grade data foundries and cognitive engines within a local, open-source ecosystem, ensuring absolute **Data Sovereignty** and **Cognitive Security** through epistemological grounding.
 
-### Tech Stack & Esoterica
-* **Core:** Python, Data Science, Local LLMs
+* **Infrastructure:** Localized inference on "Exo" (Ryzen AI 9 / Radeon 890M).
+* **Paradigm:** Transitioning from stochastic pattern matching to **Causal AI** and **Symbolic Compression**.
+
+### Tech Stack
+* **Core:** Python, TypeScript, Data Science, AI Inference
 * **The Logic Layer:** Semantic Web, RDF, SPARQL, SHACL
-* **The Physical Layer:** Home Assistant (Deep Integrations, Automation, Sensors, Actors)
-* **Interests:** Causal Inference, Biohacking, Sacred Geometry & The Physics of Consciousness.
+* **The Physical Layer:** Home Assistant (Integrations, Automations, Sensors, Actuators, Infrastructure)
+* **Interests:** Causal Inference, Biohacking, Physics of Consciousness, and Psychological Operations (PsyOps).
 
-### Philosophy & Magic
-I believe that **"Magic" is Negentropy** - the ability to create order from chaos and preserve information.
-True intelligence requires grounding in the fundamental laws of logic and consciousness. I aim to build systems that don't just simulate language, but model the causal fabric of reality itself.
+### Philosophy: The Negentropy Principle
+I define **"Magic" as Negentropy** - the capacity to generate order from chaos and preserve information against the gradient of decay.
+* **Entropic Excess:** The root of systemic decoherence and suffering.
+* **Zero Entropy:** Total stasis and sterility.
+* **Goal:** A dynamic homeostasis between Chaos and Order.
+
+True intelligence necessitates grounding in the axioms of logic and consciousness. I aim to build systems that model the causal fabric of reality itself.
 
 > "True change is not the attraction of objects in time, but a shift of the observer's standpoint in the space of possibilities."
 
 ### Connect with me
-* *Ask me about:* How code influences reality, Argentinian Tango 💃, or the link between AI and ancient intelligence.
+* *Discuss:* How code influences ontology, Argentine Tango 💃, or the correlation between AI and ancient wisdom.
