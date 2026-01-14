@@ -16,10 +16,10 @@ My objective is to instantiate enterprise-grade data foundries and cognitive eng
 * **Paradigm:** Transitioning from stochastic pattern matching to **Causal AI** and **Symbolic Compression**.
 
 ### Tech Stack
-* **Core:** Python, TypeScript, Data Science, AI Inference
+* **Core:** Linux, TypeScript, Python, Data Science, AI Inference
 * **The Logic Layer:** Semantic Web, RDF, SPARQL, SHACL
 * **The Physical Layer:** Home Assistant (Integrations, Automations, Sensors, Actuators, Infrastructure)
-* **Interests:** Causal Inference, Biohacking, Physics of Consciousness, and Psychological Operations (PsyOps).
+* **Interests:** Causal Inference, Biohacking, Consciousness, and Psychological Operations (PsyOps).
 
 ### Philosophy: The Negentropy Principle
 I define **"Magic" as Negentropy** - the capacity to generate order from chaos and preserve information against the gradient of decay.
@@ -32,4 +32,4 @@ True intelligence necessitates grounding in the axioms of logic and consciousnes
 > "True change is not the attraction of objects in time, but a shift of the observer's standpoint in the space of possibilities."
 
 ### Connect with me
-* *Discuss:* How code influences ontology, Argentine Tango 💃, or the correlation between AI and ancient wisdom.
+* *Let's Discuss:* How code influences ontology, Argentine Tango 💃, or the correlation between AI and ancient wisdom.
